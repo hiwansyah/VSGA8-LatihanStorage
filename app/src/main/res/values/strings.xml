@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatihanStorageVSGA</string>
+    <string name="laihan_presistent">Laihan Presistent</string>
+    <string name="buat_file">buat file</string>
+    <string name="ubah_file">ubah file</string>
+    <string name="baca_file">baca file</string>
+    <string name="hapus_file">hapus file</string>
+    <string name="hasil_baca_file">hasil baca file</string>
+</resources>
